@@ -1,0 +1,9 @@
+2025-10-03T09:34:15.654Z - ERROR - GET /api/auth/register - Not found - /api/auth/register
+undefined
+
+2025-10-03T09:36:12.666Z - ERROR - POST /api/auth/register - Not found - /api/auth/register
+undefined
+
+2025-10-03T09:36:19.083Z - ERROR - GET / - Not found - /
+undefined
+
